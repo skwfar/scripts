@@ -1,3 +1,6 @@
+name: 建行生活自动签到
+desc: 建行生活自动签到
+
 cron:
   script:
     - name: 建行生活
